@@ -1,0 +1,44 @@
+#title {
+    font-size: 50px;
+    font-family: "Comic Sans MS";
+    text-align: center;
+    border-style: solid;
+    border-width: 8px;
+
+}
+
+#study{
+    text-align: center;
+    border-style: outset;
+    font-size: 30px;
+}
+
+#CurrentTime{
+    text-align: center;
+    font-size: 30px;
+
+}
+
+#clock{
+    padding: 10px 0px;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+#time{
+    font-family: "Comic Sans MS";
+    margin: 10px;
+    font-size: 50px;
+    text-align: center;
+}
+
+#Timer{
+    font-size: 60px;
+    text-align: center;
+}
+
+#bandmcontainer{
+    margin: 0 auto;
+    width: 280px;    
+}

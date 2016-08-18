@@ -1,0 +1,13 @@
+img { 
+	width: 225px;
+ }
+ body {
+ 		background-image: url("tim.jpg"); 	
+ 		text-align: center;
+ 		font-family: "Arial" ;
+ 		font-size: 30px;
+ }
+
+.mes{
+	text-align: center;
+}
